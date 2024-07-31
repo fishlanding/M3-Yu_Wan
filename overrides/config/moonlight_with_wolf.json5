@@ -1,0 +1,17 @@
+
+{
+    //设定月亮事件是否启用。
+    useMoonEvent: true,
+    //启用指令Pay。
+    useCommandPay: true,
+    Biomes: 
+    {
+        //设定月木森林的群系ID。默认：200    
+        biomesMoonFrostID: 200    
+    },
+    Effect: 
+    {
+        //设定月光魔力的效果ID。默认：24    
+        effectMoonPowerID: 24    
+    }
+}

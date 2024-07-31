@@ -18,15 +18,15 @@ showOther:true
 showOtherTeam:true
 showTamed:true
 showWaypoints:true
-showIngameWaypoints:true
+showIngameWaypoints:false
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:true
+oldDeathpoints:false
 distance:1
 showCoords:true
-lockNorth:false
+lockNorth:true
 zoom:0
-minimapSize:0
+minimapSize:100
 entityAmount:1
 chunkGrid:-1
 slimeChunks:false
@@ -51,7 +51,7 @@ dotsStyle:0
 headsScale:1.0
 dotNameScale:1.0
 compassOverWaypoints:false
-showBiome:false
+showBiome:true
 showEntityHeight:true
 showFlowers:true
 keepWaypointNames:false
@@ -85,7 +85,7 @@ otherNames:0
 tamedMobNames:3
 showLightLevel:0
 renderLayerIndex:1
-showTime:0
+showTime:1
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
@@ -116,9 +116,9 @@ minimapFrameColor:9
 compassColor:9
 itemFramesOnRadar:false
 showDimensionName:false
-interface:dummy:0:0:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:false:false
+interface:gui.xaero_minimap:59:13:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
