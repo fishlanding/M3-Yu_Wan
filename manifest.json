@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Minecraft 1.7.10 with Forge",
+  "name": "ZHXI魔金-v.0.1",
   "version": "1.7.10",
   "author": "fishing886_",
   "files": [
@@ -187,6 +187,86 @@
     {
       "projectID": 263420,
       "fileID": 5060684,
+      "required": true
+    },
+    {
+      "projectID": 238856,
+      "fileID": 2950244,
+      "required": true
+    },
+    {
+      "projectID": 238857,
+      "fileID": 2950287,
+      "required": true
+    },
+    {
+      "projectID": 242106,
+      "fileID": 2933973,
+      "required": true
+    },
+    {
+      "projectID": 225738,
+      "fileID": 2265493,
+      "required": true
+    },
+    {
+      "projectID": 227914,
+      "fileID": 5530473,
+      "required": true
+    },
+    {
+      "projectID": 677782,
+      "fileID": 5549709,
+      "required": true
+    },
+    {
+      "projectID": 229876,
+      "fileID": 2244002,
+      "required": true
+    },
+    {
+      "projectID": 665627,
+      "fileID": 5546057,
+      "required": true
+    },
+    {
+      "projectID": 665744,
+      "fileID": 5546253,
+      "required": true
+    },
+    {
+      "projectID": 223164,
+      "fileID": 5165640,
+      "required": true
+    },
+    {
+      "projectID": 231821,
+      "fileID": 5198460,
+      "required": true
+    },
+    {
+      "projectID": 436482,
+      "fileID": 5505906,
+      "required": true
+    },
+    {
+      "projectID": 440897,
+      "fileID": 4331683,
+      "required": true
+    },
+    {
+      "projectID": 520155,
+      "fileID": 4575111,
+      "required": true
+    },
+    {
+      "projectID": 318963,
+      "fileID": 5388612,
+      "required": true
+    },
+    {
+      "projectID": 616555,
+      "fileID": 3765851,
       "required": true
     }
   ],
