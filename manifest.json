@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "ZHXI魔金-v0.4",
+  "name": "ZHXI魔金-v0.5",
   "version": "1.7.10",
   "author": "fishing886_",
   "files": [
@@ -122,11 +122,6 @@
     {
       "projectID": 278717,
       "fileID": 2533368,
-      "required": true
-    },
-    {
-      "projectID": 241596,
-      "fileID": 2705970,
       "required": true
     },
     {
@@ -332,6 +327,41 @@
     {
       "projectID": 959745,
       "fileID": 5017816,
+      "required": true
+    },
+    {
+      "projectID": 233019,
+      "fileID": 2252676,
+      "required": true
+    },
+    {
+      "projectID": 223794,
+      "fileID": 2296430,
+      "required": true
+    },
+    {
+      "projectID": 229523,
+      "fileID": 3005075,
+      "required": true
+    },
+    {
+      "projectID": 231382,
+      "fileID": 2292125,
+      "required": true
+    },
+    {
+      "projectID": 223565,
+      "fileID": 2313451,
+      "required": true
+    },
+    {
+      "projectID": 230114,
+      "fileID": 2281148,
+      "required": true
+    },
+    {
+      "projectID": 71620,
+      "fileID": 2217044,
       "required": true
     }
   ],
