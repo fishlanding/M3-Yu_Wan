@@ -285,7 +285,7 @@
   {
     "name":"tile.draconicevolution:dislocatorReceptacle",
     "nameL":"龙之门",
-    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/dislocatorReceptical.png"],
+    "images":["https://s21.ax1x.com/2024/03/16/pF2kTDf.png"],
     "content":
     [
       "就像黑曜石，注入龙力的黑曜石也可以做一个神奇的传送门，它的大小可以从1X1到150X150，可以用传送石来设置目的地.",
@@ -293,7 +293,7 @@
       "激活传送门只需用已绑定位置的基础或高级传送宝石右键传送容器.",
       "你也可以用漏斗或其他自动的方法把传送器放进或拿出传送容器.",
       "门的方向随意，可横可竖.",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/dislocatorReceptical.png",
+      "https://s21.ax1x.com/2024/03/16/pF2kTDf.png",
       "[c]tile.draconicevolution:dislocatorReceptacle:0"
     ]
   },
@@ -740,23 +740,23 @@
     "name":"tile.draconicevolution:reactorStabilizer",
     "nameL":"反应堆稳定器",
     "images":[
-	  "http://imgur.com/jj2j1nY.png",
-	  "http://imgur.com/19fz2j8.png",
-	  "http://imgur.com/G0QmDny.png",
-	  "http://imgur.com/2da65eR.png",
-	  "http://imgur.com/T6cboSs.png",
-	  "http://imgur.com/t8dzFlS.png",
-	  "http://imgur.com/iRIhA8i.png",
-	  "http://imgur.com/4txX1DY.png",
-	  "http://imgur.com/cazROqY.jpg",
-	  "http://imgur.com/ABVL9iA.png",
-	  "http://imgur.com/M6ZYoX7.png"
+	  "https://s21.ax1x.com/2024/03/16/pF2kj8s.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2PkcV.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2FtfA.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2PVnU.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2ZV2j.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2ZQaT.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2kXCj.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2PF10.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2F3wD.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2FuS1.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2kL5Q.png"
 	],
     "content":
     [
       "反应堆是史上最危险的能量源，它使用了混沌领域中的能量来产生巨大的电能.",
       "没有牺牲就不会成功，巨大的能量是非常危险的.这样的能量难以控制，你可能会失败很多次.但是在这个时刻，微不足道的凡人的生活和单调的世界早已不是你现在所考虑的.务必准备好你设计的蓝图，因为一个小小的疏忽都会造成无法预料的后果.下图为反应堆爆炸的后果.",
-	  "http://imgur.com/jj2j1nY.png[>]http://imgur.com/19fz2j8.png[>]http://imgur.com/G0QmDny.png[>]http://imgur.com/2da65eR.png[>]http://imgur.com/T6cboSs.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2kj8s.png[>]https://s21.ax1x.com/2024/03/16/pF2PkcV.png[>]https://s21.ax1x.com/2024/03/16/pF2FtfA.png[>]https://s21.ax1x.com/2024/03/16/pF2PVnU.png[>]https://s21.ax1x.com/2024/03/16/pF2ZV2j.png",
 
       "反应堆学的基本概念:",
       "当龙燃料与混沌晶体结合，它们会产生巨大的热量和RF能量.这个过程中燃料会产生巨大的热能.为了防止热量的分散，我们需要一个密封的区域和散热系统.第二个系统是用于维持反应堆的自我控制.第三个系统用于调整反应堆的输入和输出能量.",
@@ -767,13 +767,13 @@
       "建造方法:",
       "建造反应堆需要以下材料：4个反应堆稳定器、1个反应堆核心、1个能量喷射器、两个能量阀门.",
       "第一步：将反应堆核心放在中央位置.",
-	  "http://imgur.com/t8dzFlS.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2ZQaT.png",
       "第二步：把四个反应堆稳定器放在核心的四面，每一个都面向核心，且与核心之间的距离为4格.",
-	  "http://imgur.com/iRIhA8i.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2kXCj.png",
       "第三步：在核心的下面放置能量喷射器，shift+右键把它设置为  温度 反转 模式",
-	  "http://imgur.com/4txX1DY.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2PF10.png",
       "如果要检测反应堆稳定器是否与核心连接，只需右键单击核心，将反应堆的GUI打开.如果打不开可以尝试重新放置反应堆核心.如果四个反应堆稳定器都放置正确，反应堆状态会显示OFFLINE离线.反之将显示INVALID SETUP 无效的设置，并且你需要重新设置稳定器的位置.",
-	  "http://imgur.com/cazROqY.jpg",
+	  "https://s21.ax1x.com/2024/03/16/pF2F3wD.png",
 
       "反应堆零件的作用与合成方式:",
       "[c]tile.draconicevolution:reactorCore:0",
@@ -793,12 +793,13 @@
       "一旦启动了反应堆，燃料槽中的物质必须可以不断填充，请在燃料槽中添加足够多的燃料.如果你要清除反应堆中的能量必须要关闭反应堆.",
       "当燃料槽中有足够的燃料，给反应堆输入的RF能量足够时，反应堆就会开始持续不断地发电.能量饱和达到50%且反应堆处于“ONLINE”状态时，核心的温度会持续上升直到达到最高温度：2000.",
       "反应堆拥有足够的能量和温度时，按左下角的 激活 按钮来激活反应堆.反应堆的状态会改变为ONLINE，它会持续输出能量.",
-	  "http://imgur.com/ABVL9iA.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2FuS1.png",
       "温度表显示反应堆堆芯的温度。温度越高，所用的能量就越高，能量就会被耗尽。为最大效率，最好是保持一个反应器的温度约为8000度。如果核心温度通过8000度，密封区域将开始患上增加功率排水，从而降低整体的RF输出效率。例如，在10000度下，该领域将承受10倍的负荷，它是在8000度以下。在11000度下，该字段将在20倍以下的负载下，它是在8000度。最终它将成为不可能的密封区域获得足够的力量迅速和爆炸迫在眉睫.",
       "反应堆会接受无限量的能量，只要反应堆是红色的状态，你就是安全的，你需要通过能量阀门来控制反应堆.",
-	  "http://imgur.com/M6ZYoX7.png",
+	  "https://s21.ax1x.com/2024/03/16/pF2kL5Q.png",
       "当你从反应堆中去出过多的能量时，核心会变得更热，最终导致爆炸.",
-      "如果密封器负载达到0%，反应堆就会瞬间爆炸，爆炸范围为以反应堆为圆心，10-200区块为半径的圆.具体范围取决于反应堆中的燃料.   添加动态图片：反应堆的爆炸",
+      "如果密封器负载达到0%，反应堆就会瞬间爆炸，爆炸范围为以反应堆为圆心，10-200区块为半径的圆.具体范围取决于反应堆中的燃料.",
+	  "https://s21.ax1x.com/2024/03/16/pF2kj8s.png[>]https://s21.ax1x.com/2024/03/16/pF2PkcV.png[>]https://s21.ax1x.com/2024/03/16/pF2FtfA.png[>]https://s21.ax1x.com/2024/03/16/pF2PVnU.png[>]https://s21.ax1x.com/2024/03/16/pF2ZV2j.png",
       "能量饱和度决定了反应堆的发电效率，饱和度越低，效率也就越高.但是当饱和度达到0时，反应堆将会爆炸！",
       "总之，只要合理控制反应堆的输入和输出就可以稳定地获取RF能量.",
       "警告！！！",
@@ -1013,25 +1014,25 @@
   {
     "name":"info.能量库",
     "images":[
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore2.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore3.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore4.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore5.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore6.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore8.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore9.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore11.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore12.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore13.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore14.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore15.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore16.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore17.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore18.png",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore19.png"
+     "https://s21.ax1x.com/2024/03/16/pF2FMy6.png",
+      "https://s21.ax1x.com/2024/03/16/pF2k7b8.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FYYd.png",
+      "https://s21.ax1x.com/2024/03/16/pF2Pipq.png",
+      "https://s21.ax1x.com/2024/03/16/pF2ZEGQ.png",
+      "https://s21.ax1x.com/2024/03/16/pF2Zuq0.png",
+      "https://s21.ax1x.com/2024/03/16/pF2Cz7Q.png",
+      "https://s21.ax1x.com/2024/03/17/pF2sO2D.png",
+      "https://s21.ax1x.com/2024/03/16/pF2Ppkj.png",
+      "https://s21.ax1x.com/2024/03/16/pF2kbVS.png",
+      "https://s21.ax1x.com/2024/03/16/pF2P9ts.png",
+      "https://s21.ax1x.com/2024/03/16/pF2ZmMn.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FJFH.png",
+      "https://s21.ax1x.com/2024/03/16/pF2F8Te.png",
+      "https://s21.ax1x.com/2024/03/16/pF2ZZxs.png",
+      "https://s21.ax1x.com/2024/03/17/pF2sL8O.png",
+      "https://s21.ax1x.com/2024/03/16/pF2F1eO.png",
+      "https://s21.ax1x.com/2024/03/16/pF2ZMZV.png",
+      "https://s21.ax1x.com/2024/03/16/pF2Znrq.png"
     ],
     "content":
     [
@@ -1046,28 +1047,28 @@
       "这个能量存储装置由 能量核心 和四个 粒子发生器 组成，把 能量核心 放在中间，粒子发生器放在它的四周.具体方式如下图所示.连接到能量存储装置的发电机必须放在距离 能量核心方块 10格以外.",
       "能量核心方块 的周围需要放置红石块和龙块.下面的图片会告诉你每一个等级的的建造方法以及需要的材料.当建造完成时，只需要对着任意一个粒子发生器 空手shift+右键 就可以激活能量存储装置.",
       "等级1",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore2.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FMy6.png[>]https://s21.ax1x.com/2024/03/16/pF2k7b8.png",
       "红石块0个 龙块0个 可储存45.5万RF能量",
       "等级2",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore3.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore4.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FMy6.png[>]https://s21.ax1x.com/2024/03/16/pF2FYYd.png[>]https://s21.ax1x.com/2024/03/16/pF2Pipq.png",
       "红石块0个 龙块6个 可储存273万RF能量",
       "等级3",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore5.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore6.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FMy6.png[>]https://s21.ax1x.com/2024/03/16/pF2ZEGQ.png[>]https://s21.ax1x.com/2024/03/16/pF2Zuq0.png",
       "红石块0个 龙块26个 可储存1.64亿RF能量",
       "等级4",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore8.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore9.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FMy6.png[>]https://s21.ax1x.com/2024/03/16/pF2Cz7Q.png[>]https://s21.ax1x.com/2024/03/17/pF2sO2D.png[>]https://s21.ax1x.com/2024/03/16/pF2Ppkj.png",
       "红石块26个 龙块54个 可储存9.88亿RF能量",
       "等级5",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore11.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore12.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FMy6.png[>]https://s21.ax1x.com/2024/03/16/pF2Cz7Q.png[>]https://s21.ax1x.com/2024/03/16/pF2kbVS.png[>]https://s21.ax1x.com/2024/03/16/pF2P9ts.png[>]https://s21.ax1x.com/2024/03/16/pF2ZmMn.png",
       "红石块80个 龙块98个 可储存59.3亿RF能量",
-      "等级5",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore13.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore14.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore15.png",
+      "等级6",
+      "https://s21.ax1x.com/2024/03/16/pF2FMy6.png[>]https://s21.ax1x.com/2024/03/16/pF2Cz7Q.png[>]https://s21.ax1x.com/2024/03/16/pF2kbVS.png[>]https://s21.ax1x.com/2024/03/16/pF2FJFH.png[>]https://s21.ax1x.com/2024/03/16/pF2F8Te.png[>]https://s21.ax1x.com/2024/03/16/pF2ZZxs.png",
       "红石块133个 龙块150个 可储存356亿RF能量",
       "等级7",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore13.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore16.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore17.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore18.png",
+      "https://s21.ax1x.com/2024/03/16/pF2FMy6.png[>]https://s21.ax1x.com/2024/03/16/pF2Cz7Q.png[>]https://s21.ax1x.com/2024/03/16/pF2kbVS.png[>]https://s21.ax1x.com/2024/03/16/pF2FJFH.png[>]https://s21.ax1x.com/2024/03/17/pF2sL8O.png[>]https://s21.ax1x.com/2024/03/16/pF2F1eO.png[>]https://s21.ax1x.com/2024/03/16/pF2ZMZV.png",
       "红石块328个 龙块218个 可储存2.14万亿RF能量",
       "如果你想给能量存储器输入能量或使存储器输出能量，你需要在距离 能量核心 15格以内的地方放置能量塔.激活一个能量塔需要在它的顶部或底部放置一块玻璃.举个例子，如果你把能量塔放在顶部，你就要把玻璃放在底部.",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore19.png",
+      "https://s21.ax1x.com/2024/03/16/pF2Znrq.png",
       "当玻璃块被正确地放置以后能量塔会立刻被激活并和最近的一个能量存储装置连接.如果你看到蓝、白色的粒子效果，刚刚放置的玻璃变成了上图的样子，说明你连接成功了.你可以对能量塔按shift+右键来改变它连接的能量存储装置.",
       "能量塔可以从给能量存储器输入能量或从中提取能量.能量塔有输入模式和输出模式，按 右键 可以改变模式，蓝色是输入模式，橙色是输出模式.",
       "在能量塔和核心之间的能量传输用一束蓝色的能量粒子在两者之间显示出来.",
@@ -1076,7 +1077,7 @@
   },
   {
     "name":"info.龙的复活仪式",
-    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/resurrectionRitual.png"],
+    "images":["https://s21.ax1x.com/2024/03/16/pF2kqUg.png"],
     "content":
     [
       "这个仪式可以让你复活末影龙.建造它你需要以下材料：",
@@ -1087,7 +1088,7 @@
       "-充能龙块   4个",
       "-竖纹石英块 12个",
       "建造方法如下图：",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/resurrectionRitual.png",
+      "https://s21.ax1x.com/2024/03/16/pF2kqUg.png",
       "石英柱不必非常精确地放置，它们只需要放在距离复活石5格以外的地方就可以了.如果它们是对称的看上去会更好.这个仪式必须在末地进行.",
       "当你准备好这个召唤大阵后，你只需要右键复活石然后退后就行了，这个仪式会立即开始，如果没有变化就说明你做错了什么.",
       "再次右键复活石会停止这个仪式，而且充能龙块中的能量会消失.",
@@ -1105,16 +1106,16 @@
   },
   {
     "name":"info.彗星",
-    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/comet.png"],
+    "images":["https://s21.ax1x.com/2024/03/16/pF2PChn.png"],
     "content":
     [
       "把末地里所有的龙矿挖完了？去搜索末地吧.如果你很幸运的话，你可能会遇到末地彗星.这些彗星由末地石，黑曜石和重要的龙矿组成.在每个区块有万分之一的概率生成彗星，所以你需要寻找很久.它们有各种各样的形态和大小.",
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/comet.png"
+      "https://s21.ax1x.com/2024/03/16/pF2PChn.png"
     ]
   },
   {
     "name":"info.混沌岛",
-    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/chaosIsland.png"],
+    "images":["https://s21.ax1x.com/2024/03/16/pF2k5vt.png"],
     "content":
     [
       "想找一个有挑战性的事吗？没错了，你一定想要找到你的宿命的对决！打败了末影龙对你来说小菜一碟？可能你说你可以在同一时间打一百条末影龙或者一堆凋灵？如果这都不能难倒你的话那么现在就有一个机会给你.如果你在末地前往坐标x轴或z轴坐标为10000的倍数的地点.比如x为0，z为10000，或者x为0，z为20000，又或者x为10000，z为0.在诸如此类坐标的地点，你可能会找到一个混沌岛，这个岛非常危险，即使是创造模式也难以靠近.",
@@ -1126,7 +1127,7 @@
       "如果混沌守卫被打败，你便可以去索要你的报酬了，好歹累死累活的打了这么久不是吗。。。混沌岛也不会亏待你，你可以屁颠屁颠的跑到混沌岛最中心，然后向下挖个几层，你就会发现一个藏有混沌晶体的的混沌室。打碎混沌晶体你就会得到你的战利品-5个混沌碎片！",
       "警告！！！当你摧毁混沌晶体的时候，能量域场会震荡从而使那里整体坍塌。这会直接导致这整座岛屿会在几秒内毁灭。除非你小子命大正好穿着护甲正处于满格状态的龙装，不然你就认命吧因为你只有几秒的时间去捡碎片并且逃离此地，否则你就会和这座岛屿一起被抹除在这个世界上。换句话说，充好能再来，不然就GG.",
 
-      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/chaosIsland.png"
+      "https://s21.ax1x.com/2024/03/16/pF2k5vt.png"
     ]
   },
   {

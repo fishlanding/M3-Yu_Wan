@@ -1419,10 +1419,11 @@ DraconicEvolution:energyInfuser, 能量注入器
 DraconicEvolution:customSpawner, 稳定刷怪笼
 DraconicEvolution:generator, 发电机
 DraconicEvolution:energyStorageCore, 能量核心
+DraconicEvolution:earth, Earth
 DraconicEvolution:draconium:0, 龙块
 DraconicEvolution:draconium:1, 重生之石
 DraconicEvolution:draconium:2, 充能龙块
-DraconicEvolution:invisibleMultiblock, Energy Core
+DraconicEvolution:invisibleMultiblock, 能量核心(隐藏)
 DraconicEvolution:energyPylon, 能量塔
 DraconicEvolution:placedItem, tile.draconicevolution:placedItem.name
 DraconicEvolution:safetyFlame, tile.draconicevolution:safetyFlame.name
@@ -2059,38 +2060,38 @@ ThaumicHorizons:leviathanTH, 原始化石
 ThaumicHorizons:slotTH, 要石容器
 ThaumicHorizons:portalTH, tile.null.name
 ThaumicHorizons:gatewayTH, 平面之门
+ThaumicTinkerer:fireOrder, 秩序之焰
+ThaumicTinkerer:Levitational Locomotive, 悬浮平台
 ThaumicTinkerer:fireAir, 巽风之焰
-ThaumicTinkerer:dislocator, 矢量转位仪
-ThaumicTinkerer:animationTablet, 活化工具台
-ThaumicTinkerer:fireChaos, 混沌之焰
+ThaumicTinkerer:fireWater, 坎水之焰
+ThaumicTinkerer:bedrockPortal, 基岩传送门
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:magnet:0, 奥术念力磁铁
+ThaumicTinkerer:magnet:1, 奥术生物磁铁
 ThaumicTinkerer:darkQuartz:0, 烟黑石英块
 ThaumicTinkerer:darkQuartz:1, 雕琢烟黑石英块
 ThaumicTinkerer:darkQuartz:2, 柱状烟黑石英块
-ThaumicTinkerer:interface, 矢量变换接口
-ThaumicTinkerer:forcefield, 力场
+ThaumicTinkerer:fireFire, 离火之焰
 ThaumicTinkerer:funnel, 液体漏斗
-ThaumicTinkerer:spawner, 刷怪笼
-ThaumicTinkerer:fireEarth, 坤地之焰
+ThaumicTinkerer:animationTablet, 活化工具台
 ThaumicTinkerer:darkQuartzStairs, 烟黑石英楼梯
-ThaumicTinkerer:bedrockPortal, 基岩传送门
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:Levitational Locomotive, 悬浮平台
-ThaumicTinkerer:Levitational Locomotive Relay, 悬浮平台中继
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:repairer, 奥法修复台
+ThaumicTinkerer:forcefield, 力场
+ThaumicTinkerer:fireEarth, 坤地之焰
 ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:enchanter, 渗透附魔台
-ThaumicTinkerer:warpGate, 仙域之门
 ThaumicTinkerer:platform, 仙域平台
-ThaumicTinkerer:fireWater, 坎水之焰
 ThaumicTinkerer:darkQuartzSlab:0, 烟黑石英台阶
 ThaumicTinkerer:darkQuartzSlabFull:0, 烟黑石英台阶
-ThaumicTinkerer:magnet:0, 奥术念力磁铁
-ThaumicTinkerer:magnet:1, 奥术生物磁铁
+ThaumicTinkerer:warpGate, 仙域之门
+ThaumicTinkerer:dislocator, 矢量转位仪
+ThaumicTinkerer:spawner, 刷怪笼
+ThaumicTinkerer:interface, 矢量变换接口
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:fireOrder, 秩序之焰
-ThaumicTinkerer:fireFire, 离火之焰
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:repairer, 奥法修复台
+ThaumicTinkerer:fireChaos, 混沌之焰
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:Levitational Locomotive Relay, 悬浮平台中继
 tinker_io:fuelInputMachine, Fuel Input Machine
 tinker_io:SmartOutput, Smart Output
 tinker_io:WhatABeautifulBlock, 好漂亮的方块
@@ -3228,7 +3229,6 @@ appliedenergistics2:item.ItemMultiPart:462, P2P通道 - 物品
 appliedenergistics2:item.ItemMultiPart:467, P2P通道 - 光
 appliedenergistics2:item.ItemMultiPart:463, P2P通道 - 液体
 appliedenergistics2:item.ItemMultiPart:460, P2P通道 - ME
-appliedenergistics2:item.ItemMultiPart:466, P2P通道 - RF
 appliedenergistics2:item.ItemMultiPart:461, P2P通道 - 红石
 appliedenergistics2:item.ItemMultiPart:340, ME样板终端
 appliedenergistics2:item.ItemMultiPart:140, 石英纤维
@@ -6101,7 +6101,6 @@ FoodPlus:invisibility_gum_redstone, Chewing Gum of Invisibility (157s)
 FoodPlus:waterbreathing_gum_normal, Chewing Gum of Water Breathing (57s)
 FoodPlus:waterbreathing_gum_redstone, Chewing Gum of Water Breathing (157s)
 FoodPlus:chewing_gum, Chewing Gum
-questbook:ItemQuestBook, 任务书
 ThaumicHorizons:spawnerEgg:0, 生成 七彩羊
 ThaumicHorizons:spawnerEgg:1, 生成 自动脱毛羊
 ThaumicHorizons:spawnerEgg:2, 生成 守卫者美洲豹
